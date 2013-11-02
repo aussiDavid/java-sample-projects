@@ -1,0 +1,12 @@
+public class Finally {
+	public static void main(String[] args){
+		
+	try{
+		System.out.println("start Try{}");	
+		throw IOException;
+	}
+	catch(IOException e){
+		System.out.println("Exception caught");
+	
+	}
+}
