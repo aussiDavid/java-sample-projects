@@ -1,3 +1,0 @@
-First name, Surname, age, year, month, day 
-David, Milanese,18,1992,May,13 
-score, 10 
